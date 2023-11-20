@@ -17,9 +17,5 @@
 - 사용한 평가지표: Mean Square Error, Root Mean Square Error, Pearson Correlation Coefficient, Spearman's Rank Correlation Coefficient, Concordance Index
 
 ◾ 프로젝트 결과
-- DAVIS 데이터셋은 GCN 모델에서 가장 성능이 우수하였으며, 측정된 평가 지표는 다음과 같습니다.
-rmse: 0.777 / mse: 0.603 / pearson: 0.291 / spearman: 0.237 / ci: 0.631
-- BindingDB 데이터셋은 GIN 모델에서 가장 성능이 우수하였으며, 측정된 평가 지표는 다음과 같습니다.
-rmse: 1.097 / mse: 1.203 / pearson: 0.647 / spearman: 0.637 / ci: 0.763
-- KIBA 데이터셋은 GAT 모델이 가장 성능이 우수하였으며, 측정된 평가 지표는 다음과 같습니다.
-rmse: 0.066 / mse: 0.004 / pearson: 0.077 / spearman: 0.109 / ci: 0.539
+
+<img width="470" alt="스크린샷 2023-11-20 오전 9 02 50" src="https://github.com/Dayoung-Jung/Prediction_of_Drug-Target_Interactions_Using_Graph_Neural_Network/assets/68275740/dcf50e00-7d75-4d46-919b-0a3e29fb896c">
